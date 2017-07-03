@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Attendance</string>
+    <string name="shortForm">For example Database management system can be DBMS</string>
+    <string name="title_activity_timetable">Timetable</string>
+    <string name="title_activity_event">Event</string>
+    <string name="title_activity_subject">Subject</string>
+</resources>
